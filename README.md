@@ -68,4 +68,4 @@ Capture the traffic in **Wireshark** (`tcp.port == 2323 || tcp.port == 8080`) an
 GeoIP enrichment · SSH emulation with `paramiko` · e-mail/Telegram alerts · Splunk forwarder · Docker container
 
 ## Author
-Chris Sunil Macwan – Cyber Security Internship Project
+Chris Macwan – Cyber Security Internship Project
